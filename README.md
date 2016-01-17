@@ -1,4 +1,4 @@
-### Django tutorial using Docker, Nginx, Gunicorn and PostgreSQL.
+### Django tutorial using Docker, Nginx, Wordpress, Mysql, Gunicorn and PostgreSQL.
 
 This is Django tutorial in steroids, I wanted to go through the tutorial using a configuration that is more close to production.
 
